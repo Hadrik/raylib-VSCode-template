@@ -1,5 +1,7 @@
 # Template for starting with raylib in VSCode using C++
 
+Check out the [raylib-cpp branch](https://github.com/Hadrik/raylib-VSCode-template/tree/raylib-cpp) for more object oriented approach.
+
 Setup:
 
 1. Install [raylib](https://www.raylib.com/) (MinGW)
